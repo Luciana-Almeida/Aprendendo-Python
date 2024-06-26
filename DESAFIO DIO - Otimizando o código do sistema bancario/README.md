@@ -1,6 +1,8 @@
 # Sistema Bancário em Python
 
-Este projeto consiste na implementação de um sistema bancário simples em Python, desenvolvido para praticar conceitos de programação, modularização e manipulação de dados. O sistema permite realizar operações bancárias básicas, como depósito, saque e visualização de extrato, além de funcionalidades de criação e listagem de usuários e contas.
+Este projeto é uma implementação simples de um sistema bancário em Python, desenvolvido durante o bootcamp "Coding The Future Vivo - Python AI Backend Developer". Este é meu segundo projeto no bootcamp!
+
+O projeto consiste na implementação de um sistema bancário simples em Python, desenvolvido para praticar conceitos de programação, modularização e manipulação de dados. O sistema permite realizar operações bancárias básicas, como depósito, saque e visualização de extrato, além de funcionalidades de criação e listagem de usuários e contas.
 
 ## Funcionalidades Implementadas
 

@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um sistema bancário simples implementado em Python, utilizando conceitos de Programação Orientada a Objetos (POO). O sistema permite a criação de contas bancárias, realização de depósitos, saques, visualização de extratos, criação de novos usuários, e listagem de contas. Foi desenvolvido como parte de um desafio de aprendizado para consolidar conhecimentos em POO.
+Este projeto é um sistema bancário implementado em Python, utilizando conceitos de Programação Orientada a Objetos (POO). Uma atualização do sistema anterior, adicionado, implementando novos conceitos aprendidos e adicionando mais complexidade ao código. O sistema permite a criação de contas bancárias, realização de depósitos, saques, visualização de extratos, criação de novos usuários, e listagem de contas. Foi desenvolvido como parte de um desafio de aprendizado para consolidar conhecimentos em POO.
 
 ## Funcionalidades
 

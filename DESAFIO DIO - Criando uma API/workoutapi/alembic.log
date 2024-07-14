@@ -1,0 +1,28 @@
+2024-07-14 18:05:13,913 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:05:13,913 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:05:13,913 INFO  [alembic.runtime.migration] Will assume transactional DDL.
+2024-07-14 18:05:13,913 INFO  [alembic.runtime.migration] Will assume transactional DDL.
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added table 'atletas'
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added table 'atletas'
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added index ''ix_atletas_cpf'' on '('cpf',)'
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added index ''ix_atletas_cpf'' on '('cpf',)'
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added index ''ix_atletas_id'' on '('id',)'
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added index ''ix_atletas_id'' on '('id',)'
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added index ''ix_atletas_nome'' on '('nome',)'
+2024-07-14 18:05:13,929 INFO  [alembic.autogenerate.compare] Detected added index ''ix_atletas_nome'' on '('nome',)'
+2024-07-14 18:05:13,935 ERROR [alembic.util.messaging] Could not determine revision id from filename 8cf3f2cd31c3_initial_migration.py. Be sure the 'revision' variable is declared inside the script (please see 'Upgrading from Alembic 0.1 to 0.2' in the documentation).
+2024-07-14 18:05:13,935 ERROR [alembic.util.messaging] Could not determine revision id from filename 8cf3f2cd31c3_initial_migration.py. Be sure the 'revision' variable is declared inside the script (please see 'Upgrading from Alembic 0.1 to 0.2' in the documentation).
+2024-07-14 18:14:05,105 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:14:05,105 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:14:05,106 INFO  [alembic.runtime.migration] Will assume transactional DDL.
+2024-07-14 18:14:05,106 INFO  [alembic.runtime.migration] Will assume transactional DDL.
+2024-07-14 18:14:05,112 INFO  [alembic.runtime.migration] Running upgrade  -> 8cf3f2cd31c3, Initial migration
+2024-07-14 18:14:05,112 INFO  [alembic.runtime.migration] Running upgrade  -> 8cf3f2cd31c3, Initial migration
+2024-07-14 18:41:19,769 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:41:19,769 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:41:19,770 INFO  [alembic.runtime.migration] Will assume transactional DDL.
+2024-07-14 18:41:19,770 INFO  [alembic.runtime.migration] Will assume transactional DDL.
+2024-07-14 18:41:59,482 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:41:59,482 INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+2024-07-14 18:41:59,482 INFO  [alembic.runtime.migration] Will assume transactional DDL.
+2024-07-14 18:41:59,482 INFO  [alembic.runtime.migration] Will assume transactional DDL.

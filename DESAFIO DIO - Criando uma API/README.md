@@ -1,6 +1,6 @@
 # API de Gerenciamento de Atletas
 
-Este projeto é uma implementação simples de uma API de gerenciamento de atletas utilizando FastAPI, desenvolvido durante o bootcamp "Coding The Future Vivo - Python AI Backend Developer".
+Este projeto é uma implementação de uma API de gerenciamento de atletas utilizando FastAPI, desenvolvido durante o bootcamp "Coding The Future Vivo - Python AI Backend Developer".
 
 ## Descrição
 

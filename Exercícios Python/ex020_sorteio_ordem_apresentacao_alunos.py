@@ -1,6 +1,5 @@
 # O mesmo professor do desafio anterior quer sortear a ordem de aprasantação de trabalhos dos alunos. Faça um programa que leia o nome dos alunos que estão na lista e mostra a ordem sorteada.
 
-# Um professor quer sortear um de seus alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome escolhido
 
 import random
 

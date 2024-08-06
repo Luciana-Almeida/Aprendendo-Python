@@ -3,6 +3,6 @@
 numero = int(input("Informe um número para calcular a tabuada: "))
 print(f"A tabuada de {numero} é:")
 
-for n in range(11):
+for n in range(1, 11):
     tabuada = numero * n
     print(f"{numero} x {n} = {tabuada}")

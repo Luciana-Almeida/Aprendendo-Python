@@ -6,6 +6,7 @@
 # ANOTARAM A DATA DA MARATONA
 
 frase = input("Informe uma frase: ").upper().replace(" ", "")
+
 if frase == frase[::-1]:
     print("A frase é um palíndromo")
 else:

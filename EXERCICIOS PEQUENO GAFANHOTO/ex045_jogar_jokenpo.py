@@ -41,14 +41,14 @@ else:
 
     # Determinar o vencedor
     if computador == jogador_opcao:
-        print("Empate!")
+        print("== Empate! ==")
 
     elif (computador == "Pedra" and jogador_opcao == "Tesoura") or \
          (computador == "Papel" and jogador_opcao == "Pedra") or \
          (computador == "Tesoura" and jogador_opcao == "Papel"):
-        print("O computador venceu!")
+        print("@@ O computador venceu! @@")
         
     else:
-        print("Você venceu!")
+        print("## Você venceu! ##")
 
 print("-=" * 15)

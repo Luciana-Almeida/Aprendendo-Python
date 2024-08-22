@@ -5,8 +5,8 @@ maior_peso = 0
 menor_peso = float('inf')  # Um valor inicial muito alto
 
 # Loop para ler os pesos
-for _ in range(5):
-    peso = float(input("Informe o peso em kg: "))
+for p in range(5):
+    peso = float(input(f"Informe o peso da {p}ª em kg: "))
     
     # Atualiza o maior e menor peso conforme necessário
     if peso > maior_peso:

@@ -16,3 +16,5 @@ for n in range(7):
 
 print(f"{maioridade} pessoas já atingiram a maioridade.")        
 print(f"{menoridade} pessoas ainda não atingiram a maioridade.")
+
+
